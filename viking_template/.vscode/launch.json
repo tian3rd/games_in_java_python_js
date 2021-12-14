@@ -1,0 +1,29 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Launch Game",
+			"request": "launch",
+			"mainClass": "Game",
+			"projectName": "viking_template_f4d1e020"
+		},
+		{
+			"type": "java",
+			"name": "Launch Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "Launch HelloFX",
+			"request": "launch",
+			"vmArgs": "--module-path /Library/Java/javafx-sdk-17.0.1/lib --add-modules javafx.controls,javafx.fxml",
+			"mainClass": "HelloFX",
+			"projectName": "viking_template_f4d1e020"
+		}
+	]
+}
