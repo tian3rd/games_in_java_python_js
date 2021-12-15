@@ -1,6 +1,6 @@
 import javafx.animation.FadeTransition;
 import javafx.application.Application;
-import javafx.application.Platform;;
+import javafx.application.Platform;
 import javafx.scene.Group;
 import javafx.scene.Node;
 import javafx.scene.Scene;
